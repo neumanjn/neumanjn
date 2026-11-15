@@ -24,7 +24,6 @@ int main(void) {
             "Vulnerability Discovery & Fuzzing",
             "Exploit Development",
             "Systems Programming"
-            "C, C++, ASM(x86_64), Python, Shell's"
         }
     };
 
